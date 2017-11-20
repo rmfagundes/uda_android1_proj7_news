@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+
+    <string name="settings_menu_item">Settings</string>
+
+    <string name="settings_title">Earthquake Settings</string>
+
+    <string name="settings_from_last_days_label">Number of days to look for in the past</string>
+    <string name="settings_from_last_days_key" translatable="false">from_days</string>
+    <string name="settings_from_last_days_default" translatable="false">6</string>
+</resources>
